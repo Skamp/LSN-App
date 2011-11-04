@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LoadSensingActivity!</string>
+    <string name="app_name">LoadSensing App</string>
+    <string name="app_team">Equip LSN</string>
+    <string name="googleMaps_API_key_debug">0ddH1jyvjXmfm9XQKuERdr5XpTyvpjWOOA3K4Og</string>
+    <string name="info_LoadSensing">Per més informació sobre LoadSensing, es pot consultar la següent direcció web:</string>
+    <string name="app_url">http://www.loadsensing.com</string>
+    <string name="about_content">LoadSensing App ......\n\n... <a href="http://www.worldsensing.com">WorldSensing</a></string>
+    <string name="infoTabAbout">Sobre...</string>
+    <string name="infoTabLicense">Llicència</string>
+     
+    
+        
+    <!-- Messages Init -->
+    <string name="msg_BadLoginPass">Login/Password incorrectes</string>
+    <!-- Messages End -->
+    <!-- Activity Labels Init -->
+    	<string name="act_lbl_homConfig">Configuració</string>
+	    <string name="act_lbl_homAbout">Sobre...</string>
+	    <string name="act_lbl_homLicense">Llicència</string>
+	    <string name="act_lbl_homInfo">Informació</string>
+	    <string name="act_lbl_homHelp">Ajuda</string>
+	    <string name="act_lbl_homNetList">Xarxes en llistat</string> 
+	    <string name="act_lbl_homNetMaps">Xarxes en mapes</string>
+	    <string name="act_lbl_homQRCode">Llegir QR Code</string>
+	    <string name="act_lbl_homFaves">Favorits</string>
+	    <string name="act_lbl_homAugReal">Realitat Augmentada</string>
+	    <string name="act_lbl_homNetCloser">Xarxes properes</string>
+	    <string name="act_lbl_favNetwork">Xarxes favorites</string>
+	    <string name="act_lbl_favSensor">Sensors favorits</string>
+	    <string name="act_lbl_favImage">Imatges favorites</string>
+	    
+    <!-- Activity Labels End -->
+    
+        
+    <!-- Login Init -->
+    	<string name="strUser">Usuari:</string>
+    	<string name="strPassword">Contrasenya:</string>
+    	<string name="strLogin">Accedir</string>
+    	<string name="strExit">Sortir</string>
+    <!-- Login End -->
+    <!-- ActionBar Text Init -->
+    <string name="abtxtLogOut">Sortir</string>
+    <string name="abtxtConfiguration">Configuració</string>
+    <string name="abtxtInformation">Informació</string>
+    <!-- ActionBar Text End -->
+    <!-- Dialog Text Init -->
+    <string name="dialogLogOut">Desitja canviar d\'usuari?</string>
+    <string name="txtYes">Si</string>
+    <string name="txtNo">No</string>
+    <string name="txtExit">Sortir</string>
+    <!-- Dialog Text End --> 
+  	<!-- Faves Activity Init -->
+  		<string name="act_lbl_favNetworks">Xarxes Favorites</string>
+    	<string name="act_lbl_favSensors">Sensors Favorits</string>
+   		<string name="act_lbl_favImages">Imatges Favorites</string>
+  		<string name="tab_fav_networks">Xarxes</string>
+    	<string name="tab_fav_sensors">Sensors</string>
+   		<string name="tab_fav_images">Imatges</string>
+    <!-- Faves Activity End -->
+</resources>

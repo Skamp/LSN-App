@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LoadSensingActivity!</string>
+    <string name="app_name">LoadSensing App</string>
+    <string name="app_team">Equipo LSN</string>
+    <string name="googleMaps_API_key_debug">0ddH1jyvjXmfm9XQKuERdr5XpTyvpjWOOA3K4Og</string>
+    <string name="info_LoadSensing">Para más información sobre LoadSensing, se puede consultar la siguiente dirección web:</string>
+    <string name="app_url">http://www.loadsensing.com</string>
+    <string name="about_content">LoadSensing App ......\n\n... <a href="http://www.worldsensing.com">WorldSensing</a></string>
+    <string name="infoTabAbout">Sobre...</string>
+    <string name="infoTabLicense">Licencia</string>
+    
+	<!-- Messages Init -->        
+    <string name="msg_BadLoginPass">Login/Password incorrectos</string>
+    <!-- Messages End -->
+    <!-- Activity Labels Init -->
+    	<string name="act_lbl_homConfig">Configuración</string>
+    	<string name="act_lbl_homAbout">Sobre...</string>
+    	<string name="act_lbl_homLicense">Licencia</string>
+    	<string name="act_lbl_homInfo">Información</string>
+    	<string name="act_lbl_homHelp">Ayuda</string>
+    	<string name="act_lbl_homNetList">Redes en lista</string> 
+    	<string name="act_lbl_homNetMaps">Redes en mapa</string>
+    	<string name="act_lbl_homQRCode">Leer QR Code</string>
+    	<string name="act_lbl_homFaves">Favorites</string>
+    	<string name="act_lbl_homAugReal">Realidad Augmentada</string>
+    	<string name="act_lbl_homNetCloser">Redes cercanas</string>
+    	<string name="act_lbl_favNetwork">Redes favoritas</string>
+	    <string name="act_lbl_favSensor">Sensores favoritos</string>
+	    <string name="act_lbl_favImage">Imagenes favoritas</string>
+    <!-- Activity Labels End -->
+   
+   
+    <!-- Login Init -->
+    	<string name="strUser">Usuario:</string>
+    	<string name="strPassword">Contraseña:</string>
+    	<string name="strLogin">Acceder</string>
+    	<string name="strExit">Salir</string>
+    <!-- Login End -->
+    <!-- ActionBar Text Init -->
+    <string name="abtxtLogOut">Salir</string>
+    <string name="abtxtConfiguration">Configuración</string>
+    <string name="abtxtInformation">Información</string>
+    <!-- ActionBar Text End -->
+    <!-- Dialog Text Init -->
+    <string name="dialogLogOut">¿Desea cambiar de usuario?</string>
+    <string name="txtYes">Si</string>
+    <string name="txtNo">No</string>
+    <string name="txtExit">Salida</string>
+    <!-- Dialog Text End -->
+    <!-- Faves Activity Init -->
+    	<string name="act_lbl_favNetworks">Redes Favoritas</string>
+    	<string name="act_lbl_favSensors">Sensores Favoritos</string>
+   		<string name="act_lbl_favImages">Imágenes Favoritas</string>
+   		<string name="tab_fav_networks">Redes</string>
+    	<string name="tab_fav_sensors">Sensores</string>
+   		<string name="tab_fav_images">Imágenes</string>
+    <!-- Faves Activity End -->
+   
+</resources>
